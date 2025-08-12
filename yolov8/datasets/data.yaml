@@ -1,0 +1,5 @@
+path: E:/code/yolov8/datasets
+train: images/train
+val: images/val
+names: [DNB]   # 只有一个类别：整表区域
+nc: 1
